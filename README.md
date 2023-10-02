@@ -17,22 +17,11 @@ Place the file you want to compress in the ZipMaster directory.
 Open your terminal or command prompt.
 Navigate to the ZipMaster directory.
 Run the ZipMaster script by entering the following command:
-Copy code
 python zipmaster.py
-You will be prompted to enter the letter 'c' for compression.
-To decompress a file, follow these steps:
 
-Place the compressed ZIP file in the ZipMaster directory.
-Open your terminal or command prompt.
-Navigate to the ZipMaster directory.
-Run the ZipMaster script by entering the following command:
-Copy code
-python zipmaster.py
-You will be prompted to enter the letter 'd' for decompression.
-Input File Name
-
+You will be prompted to enter the letter 'c' for compression and 'd' for compression.
 After selecting the compression or decompression operation, you will be prompted to enter the name of the file you want to compress or decompress.
 Make sure the file is in the ZipMaster directory.
 Output File
 
-Upon successful compression or decompression, the resulting file will be placed in the ZipMaster directory with an appropriate file extension ('.zip' for compressed files and the original extension for decompressed files).
+Upon successful compression or decompression, the resulting file will be placed in the ZipMaster directory with an appropriate file extension.
