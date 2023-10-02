@@ -22,6 +22,6 @@ python zipmaster.py
 You will be prompted to enter the letter 'c' for compression and 'd' for compression.
 After selecting the compression or decompression operation, you will be prompted to enter the name of the file you want to compress or decompress.
 Make sure the file is in the ZipMaster directory.
-Output File
+
 
 Upon successful compression or decompression, the resulting file will be placed in the ZipMaster directory with an appropriate file extension.
